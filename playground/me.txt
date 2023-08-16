@@ -1,3 +1,0 @@
-Name: Mukund Jain
-Skills: HTML, CSS, JS, Other programming languages - java, c, c++
-Email : mukund.jain2021@vitstudent.ac.in
